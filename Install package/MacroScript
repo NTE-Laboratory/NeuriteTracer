@@ -1,0 +1,17 @@
+macro "-" {} //menu divider
+macro "Open Images for Setting Parameters..."{
+		runMacro("open images to set parameters");
+}
+macro "Trace and Measure..."{
+		runMacro("trace and measure");
+} 
+macro "Batch Trace and Measure..."{
+		runMacro("batch_trace_and_measure");
+} 
+macro"-"{} //menu divider 
+macro "RGB merge tracings..."{
+		runMacro("RGBmergetracings"); 
+} 
+macro "Batch RGB merge tracings..."{
+runMacro("batch_RGBmergetracings"); 
+} 

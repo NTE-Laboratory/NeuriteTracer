@@ -1,0 +1,4 @@
+ 	Label	Length	Nuclear Count
+1	Neuronal_01.tif	3600.804	63
+2	Neuronal_02.tif	2370.270	52
+3	Neuronal_03.tif	2409.868	45
